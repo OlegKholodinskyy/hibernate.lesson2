@@ -1,4 +1,4 @@
-package lesson3OneToOne.Model;
+package lesson3OneToOne.model;
 
 import javax.persistence.*;
 import java.util.Date;

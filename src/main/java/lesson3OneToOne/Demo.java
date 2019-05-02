@@ -1,9 +1,8 @@
 package lesson3OneToOne;
 
-import lesson3OneToOne.Model.Hotel;
-import lesson3OneToOne.Model.Room;
-import lesson3OneToOne.Service.HotelService;
-import lesson3OneToOne.Service.RoomService;
+import lesson3OneToOne.model.Hotel;
+import lesson3OneToOne.model.Room;
+import lesson3OneToOne.service.RoomService;
 
 import java.util.Date;
 

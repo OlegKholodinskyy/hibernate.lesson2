@@ -1,7 +1,7 @@
-package lesson3OneToOne.Service;
+package lesson3OneToOne.service;
 
-import lesson3OneToOne.Model.Hotel;
-import lesson3OneToOne.Repository.HotelDAO;
+import lesson3OneToOne.model.Hotel;
+import lesson3OneToOne.repository.HotelDAO;
 
 public class HotelService {
     static HotelDAO hotelDAO = new HotelDAO();

@@ -1,6 +1,6 @@
-package lesson3OneToOne.Repository;
+package lesson3OneToOne.repository;
 
-import lesson3OneToOne.Model.Room;
+import lesson3OneToOne.model.Room;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -8,7 +8,6 @@ import org.hibernate.Transaction;
 import org.hibernate.cfg.Configuration;
 
 import javax.persistence.Query;
-import java.sql.SQLException;
 
 public class RoomDAO {
     static SessionFactory sessionFactory = null;

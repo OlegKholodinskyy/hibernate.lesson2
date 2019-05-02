@@ -1,6 +1,6 @@
-package lesson3OneToOne.Repository;
+package lesson3OneToOne.repository;
 
-import lesson3OneToOne.Model.Hotel;
+import lesson3OneToOne.model.Hotel;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
